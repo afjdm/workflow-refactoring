@@ -1,5 +1,5 @@
-## Workflow Refactoring 
-# (anonymized for review)
+# Workflow Refactoring 
+## (anonymized for review)
 
 Business process optimization has become a strategic aspect of companies' management due to the potential of cost reduction and throughput improvement.
 There are several ways to achieve process optimization, depending on the level of expressiveness of the processes at hand. 
